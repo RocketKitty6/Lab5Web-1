@@ -1,7 +1,7 @@
 # Lab5Web
 ```
-                                                 MIRA SHINTANIA
-                                                   312010290
+                                                 Galang Rintang Widya Pratama
+                                                   312010299
                                                     TI.20.B2
 
 ```
